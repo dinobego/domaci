@@ -1,0 +1,64 @@
+h1{
+    color: gray;
+}
+svg{
+    size: 5px;
+    color: black;
+}
+h4{
+    color: rgb(146, 146, 146);
+}
+#pretraga{
+    size: 5px;
+}
+img{
+    height: 350px;
+        position: absolute;
+        top: 148px;
+        left: 106px;
+        font-size: 18px;
+}
+
+.fa-film {
+    margin-right: 5px;
+}
+
+.Naslov {
+    width: 20%;
+}
+
+select {
+    padding: 2px;
+}
+
+
+input {
+    margin: 0 2%;
+    width: 230px;
+}
+
+table {
+    display: inline-block;
+    position: absolute;
+    top: 158px;
+    right: 426px;
+    font-size: 18px;
+}
+
+ul {
+    margin: 0;
+    padding-right 10%: 
+    ;
+}
+
+li {
+    list-style-type: none;
+}
+.fa-film{
+    color: black;
+}
+hr{
+    width: 180px;
+    background-color: gray;
+    border: gray;
+}
